@@ -14,8 +14,8 @@
     <AssemblyName>HiAuRo.Helper</AssemblyName>
 
     <PackageId>HiAuRo.Helper</PackageId>
-    <Version>0.1.1</Version>
-    <Authors>denghaoxuan991876906</Authors>
+    <Version>0.1.2</Version>
+    <Authors>destesasinsh</Authors>
     <Description>FFXIV 全战斗职业数据辅助库 · 基于 HiAuRo.Sdk · 静态 API 开箱即用</Description>
     <PackageTags>FFXIV;Dalamud;ACR;rotation</PackageTags>
   </PropertyGroup>

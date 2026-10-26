@@ -2,8 +2,8 @@
 
 FFXIV 全战斗职业数据辅助库，基于 `HiAuRo.Sdk`，为 ACR 作者提供静态职业 Helper API。
 
-[![Build](https://github.com/denghaoxuan991876906/HiAuRo.Helper/actions/workflows/ci.yml/badge.svg)](https://github.com/denghaoxuan991876906/HiAuRo.Helper/actions)
-[![AI Review](https://github.com/denghaoxuan991876906/HiAuRo.Helper/actions/workflows/pr-review.yml/badge.svg)](https://github.com/denghaoxuan991876906/HiAuRo.Helper/actions)
+[![Build](https://github.com/destesasinsh/HiAuRo.Helper/actions/workflows/ci.yml/badge.svg)](https://github.com/destesasinsh/HiAuRo.Helper/actions)
+[![AI Review](https://github.com/destesasinsh/HiAuRo.Helper/actions/workflows/pr-review.yml/badge.svg)](https://github.com/destesasinsh/HiAuRo.Helper/actions)
 
 ## 设计原则
 
@@ -38,7 +38,7 @@ ACR 项目必须先引用与宿主匹配的 `HiAuRo.Sdk`。`ExcludeAssets="runti
 
 ```bash
 cd YourACR
-git submodule add https://github.com/denghaoxuan991876906/HiAuRo.Helper.git Helper
+git submodule add https://github.com/destesasinsh/HiAuRo.Helper.git Helper
 dotnet sln YourACR.slnx add Helper/HiAuRo.Helper/HiAuRo.Helper.csproj
 ```
 
